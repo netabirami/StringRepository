@@ -34,8 +34,5 @@ public class StringExample {
         //String Format
         String format = String.format("The salary for abi is % 3f", 10.235000);
         System.out.println("String Format "+format);
-
-
-
     }
 }
